@@ -7,12 +7,16 @@ A Python 3 `http.server` wrapper that supports ssl, basic auth, markdown renderi
 ## Installation
 
 ```sh
+python3 -m pip install darkdown
+```
+
+## Manual Installation
+
+```sh
 git clone https://github.com/phx/darkdown
 cd darkdown
 python3 -m pip install -r requirements.txt
 ```
-
-(Putting it on PyPi shortly, just give me some time and be patient.)
 
 ## Usage
 
